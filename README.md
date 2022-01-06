@@ -3,6 +3,7 @@ A discord bot that you are able to play Spy game with your friends.
 
 this bot is **persian** bot
 
+I'm not sure it's working on multiple servers!
 
 
 ## Commands
